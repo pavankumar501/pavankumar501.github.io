@@ -1,0 +1,40 @@
+# Pavan Kumar Reddipalli
+
+> Technical Lead and Senior Node.js developer with 11+ years of experience building scalable backends, real-time products and cloud platforms.
+
+Pavan Kumar Reddipalli is a backend engineer and technical lead based in Visakhapatnam, India. He works across Node.js, Express.js, MongoDB, MySQL, PostgreSQL, DynamoDB, AWS, Microsoft Azure and React.js.
+
+## Profile
+
+- [Portfolio](https://pavankumar501.github.io/): selected work, experience and contact.
+- [GitHub](https://github.com/pavankumar501): public repositories and experiments.
+- [Résumé](https://pavankumar501.github.io/Pavan-Kumar-Reddipalli-Resume.pdf): full professional history.
+
+## Product lab
+
+- [MediCore](https://medicore-hospital-dmlx.onrender.com): live hospital management system with patients, appointments, beds, pharmacy, labs, billing and role-based staff access. [Source](https://github.com/pavankumar501/medicore).
+- [Scholara](https://github.com/pavankumar501/scholara): school management platform with admin, teacher, student and parent portals, attendance, timetables, exams, fees and announcements.
+- [Billora](https://github.com/pavankumar501/billora): retail POS and billing system with barcode checkout, GST receipts, inventory, purchases, customers and reports.
+
+## Selected work
+
+- [DealsNavi](https://dealsnavi.com/): live Amazon and Flipkart price comparison with price history, drop alerts, coupons, cashback and bank offers. Built end-to-end after July 2026.
+- Cureka: healthcare eCommerce platform with Node.js, MySQL, AWS and multiple payment gateways.
+- TMILL: supply chain management platform with Node.js, React, PostgreSQL and Microsoft Azure.
+- celebKonect: celebrity engagement and commerce platform with Socket.IO and Firebase notifications.
+- Flikster: movie-related eCommerce and entertainment backend on AWS.
+- Telesur: telecom speech-quality reporting with AngularJS, MongoDB and Kendo UI.
+- HRMS & Timesheet: enterprise HR platform with attendance, payroll, leave and immigration modules.
+
+## Additional enterprise work
+
+- Microsoft Word Legal Add-in: document automation for law firms, including Table of Contents and Table of Authorities generation.
+- Admin dashboards and analytics: enterprise reporting with charts, pagination and a SQL-to-MongoDB migration.
+- Notification and workflow automation: email, SMS and push logging with approval workflows, audit logs and activity tracking.
+
+## Contact
+
+- Email: ravspk501@gmail.com
+- Phone: +91 78935 52468
+- [LinkedIn](https://www.linkedin.com/in/pavan-kumar-reddipalli-b2a332173/): professional profile
+- Location: Visakhapatnam, Andhra Pradesh, India

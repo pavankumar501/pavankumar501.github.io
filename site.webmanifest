@@ -1,0 +1,18 @@
+{
+  "name": "Pavan Kumar Reddipalli — Portfolio",
+  "short_name": "Pavan",
+  "description": "Technical Lead and Senior Node.js developer building scalable backends and cloud platforms.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#070809",
+  "theme_color": "#070809",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
